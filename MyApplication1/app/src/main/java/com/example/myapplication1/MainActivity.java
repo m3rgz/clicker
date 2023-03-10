@@ -40,8 +40,4 @@ public class MainActivity extends AppCompatActivity {
         TextView counterView = findViewById(R.id.txtcounter);
         counterView.setText(counter.toString());
     }
-
-    public void onClickBtnAddArtem(View view) {
-    }
-
 }
